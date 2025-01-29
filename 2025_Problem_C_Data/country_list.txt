@@ -1,0 +1,26 @@
+{'Brazil', 'IrelandÂ\xa0', 'Bulgaria', 'Slovakia', 'Ecuador', 'Luxembourg', 'Bermuda', 'Cabo Verde', 'Syria', 'Independent Olympic Athletes', 'Germany', 'South AfricaÂ\xa0', 
+'Bahamas', 'Argentina', 'FR Yugoslavia', 'Zimbabwe', 'Czechoslovakia', 'Italy', 'Independent Olympic Participants', 'Macedonia', 'Saudi Arabia', 'RomaniaÂ\xa0', 
+'Guatemala', 'United Arab Emirates', 'Indonesia', 'West Germany', 'Netherlands', 'South Africa', 'AustriaÂ\xa0', 'UruguayÂ\xa0', 'PakistanÂ\xa0', 'Soviet UnionÂ\xa0',
+ 'Ethiopia', 'Slovenia', 'SwedenÂ\xa0', 'Eritrea', 'Kenya', 'Pakistan', 'Nigeria', 'Singapore', 'Jordan', 'Algeria', 'Australasia', 'Serbia and Montenegro', 
+ 'United Team of GermanyÂ\xa0', 'Cuba', 'Albania', 'Turkey', 'Iran', 'NetherlandsÂ\xa0', 'Romania', 'Mexico', 'Hong Kong', 'United States', 'Jamaica', 'Venezuela', 
+ 'United Team of Germany', 'PolandÂ\xa0', 'PortugalÂ\xa0', 'Virgin Islands', 'Suriname', 'Moldova', 'IranÂ\xa0', 'Cyprus', 'HungaryÂ\xa0', 'Finland', 'British West IndiesÂ\xa0',
+  'South Korea', 'Austria', 'Togo', 'Switzerland', 'FranceÂ\xa0', 'Botswana', 'Japan', 'Tunisia', 'FinlandÂ\xa0', 'Zambia', 'BrazilÂ\xa0', 'North Macedonia', 'Sudan',
+   'Mauritius', 'Iceland', 'IraqÂ\xa0', 'Ceylon', 'Thailand', 'Puerto Rico', 'Poland', 'Soviet Union', 'Great Britain', 'ItalyÂ\xa0', 'Peru', 'BulgariaÂ\xa0', 'EthiopiaÂ\xa0', 
+   'Sri Lanka', 'Dominican Republic', 'DenmarkÂ\xa0', 'ROC', 'North Korea', 'Chinese Taipei', 'Colombia', 'Bohemia', 'Montenegro', 'Belgium', 'Australia', 'IndiaÂ\xa0',
+   'SpainÂ\xa0', 'Trinidad and Tobago', 'Fiji', 'Great BritainÂ\xa0', 'Burkina Faso', 'EgyptÂ\xa0', 'FormosaÂ\xa0', 'Costa Rica', 'Spain', 'Tonga', 'Mixed team', 'BelgiumÂ\xa0', 
+   'Uruguay', 'San Marino', 'Namibia', 'Turkmenistan', 'Kyrgyzstan', 'France', 'Hungary', 'GhanaÂ\xa0', 'SingaporeÂ\xa0', 'Russian Empire', 'VenezuelaÂ\xa0', 'Egypt', 'MexicoÂ\xa0', 
+   'Gabon', 'India', 'Norway', 'GermanyÂ\xa0', 'Mozambique', 'Tajikistan', 'Chile', 'TurkeyÂ\xa0', 'Tanzania', 'Greece', 'China', 'Sweden', 'Niger', 'CanadaÂ\xa0', 'Serbia', 
+   'PhilippinesÂ\xa0', 'Latvia', 'Taiwan', 'Armenia', 'Vietnam', 'GreeceÂ\xa0', 'Uzbekistan', 'New Zealand', 'Bahrain', 'Burundi', 'CzechoslovakiaÂ\xa0', 'AustraliaÂ\xa0',
+    'LatviaÂ\xa0', 'Refugee Olympic Team', 'Azerbaijan', 'United StatesÂ\xa0', 'Afghanistan', 'New ZealandÂ\xa0', 'Belarus', 'Malaysia', 'Morocco', 'YugoslaviaÂ\xa0', 'Russia', 
+    'Georgia', 'Mongolia', 'Kosovo', 'NorwayÂ\xa0', 'Estonia', 'Senegal', 'Cameroon', 'Guyana', 'Kazakhstan', 'Philippines', 'Czech Republic', 'JapanÂ\xa0', 'Netherlands Antilles',
+     'Lithuania', 'MoroccoÂ\xa0', 'Croatia', 'Unified Team', 'Ireland', 'Denmark', 'Yugoslavia', 'Barbados', 'Paraguay', 'Dominica', 'Ghana', 'Panama', 'Uganda', 'Saint Lucia', 'Ivory Coast', 
+'Ukraine', 'Haiti', 'Canada', 'Lebanon', 'SwitzerlandÂ\xa0', 'ArgentinaÂ\xa0', 'Portugal', 'Qatar', 'Grenada', 'Israel', 'Samoa', 'Kuwait', 'East Germany', 'Djibouti'}
+
+
+
+
+
+
+
+
+

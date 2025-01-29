@@ -1,0 +1,65 @@
+Germany	West Germany, East Germany, Unified Team of Germany
+Russia	Russian Empire, Soviet Union, Unified Team
+Czech Republic	Bohemia, Czechoslovakia
+Slovakia	Post-1993 Slovak medals only
+USA	No changes
+China	No changes
+Japan	No changes
+France	No changes
+Italy	No changes
+Australia	Australasia, modern Australia
+Canada	No changes
+Great Britain	United Kingdom, includes historical references
+India	No changes
+South Korea	No changes
+North Korea	No changes
+Brazil	No changes
+Kenya	No changes
+Jamaica	No changes
+South Africa	Includes earlier iterations (e.g., Union of South Africa)
+Spain	No changes
+Netherlands	Includes Netherlands Antilles
+Sweden	No changes
+Norway	No changes
+Denmark	No changes
+Ukraine	No changes
+Kazakhstan	Post-Soviet medals only
+Hungary	No changes
+Poland	No changes
+Romania	No changes
+Bulgaria	No changes
+Cuba	No changes
+Turkey	No changes
+Mexico	No changes
+Argentina	No changes
+Iran	No changes
+Ethiopia	No changes
+Egypt	No changes
+Pakistan	No changes
+Greece	No changes
+Finland	No changes
+Switzerland	No changes
+Israel	No changes
+Morocco	No changes
+Portugal	No changes
+Belgium	No changes
+New Zealand	No changes
+Indonesia	No changes
+Thailand	No changes
+Singapore	No changes
+Malaysia	No changes
+Vietnam	No changes
+Saudi Arabia	No changes
+United Arab Emirates	No changes
+Qatar	No changes
+Sri Lanka	Includes Ceylon
+Yugoslavia	Exclude; split into Serbia, Croatia, Bosnia, Slovenia, etc.
+Slovenia	Post-Yugoslavia medals only
+Croatia	Post-Yugoslavia medals only
+Serbia	Post-Yugoslavia medals only
+Montenegro	Post-Yugoslavia medals only
+Bosnia	Post-Yugoslavia medals only
+Uzbekistan	Post-Soviet medals only
+Belarus	Post-Soviet medals only
+Armenia	Post-Soviet medals only
+Azerbaijan	Post-Soviet medals only

@@ -1,0 +1,22 @@
+to be able to run the code run:
+pip3 install requirements.txt or pip install requirements.txt in your terminal
+
+All important code in model.ipynb, mostly pay attention to the end, last box in the notebook
+
+
+final_csv has all the data needed
+
+
+The Model Takes these inputs:
+
+Year : 2028
+Participant Count : Number of participants for a specific country for that Olympics: NEEDS TO BE ESTIMATED
+Is Host: 0 for any other country except the united states as they are hosting the Olympics
+Historical_Total_Medals: Can be calculated, Historical Total Medals from 2024 + Medals Won in 2024
+Past Medal Efficiency: Calculated by the previous olympics total medals / total participants, can also be calculated easily
+
+
+Only thing that needs to be estimated is Number of Participants, figure out how to predict this, maybe through linear regression, all data needed is in final.csv, 
+Pay attention to participant count.
+
+
