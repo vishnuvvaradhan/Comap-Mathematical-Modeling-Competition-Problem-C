@@ -1,0 +1,13 @@
+Silver:
+['Previous_Silver', 'Year', 'Previous_Bronze', 'Previous_Participants', 'Past_Medal_Efficiency', 'Is_Host', 'Previous_Gold', 'Historical_Total_Medals', 'Previous_Total'] [-0.03386694  0.          0.00961179  0.02268574  0.02457423  0.04613395
+  0.08829661  0.37936958  0.57394069]
+Total:
+['Previous_Silver', 'Year', 'Previous_Participants', 'Previous_Bronze', 'Past_Medal_Efficiency', 'Is_Host', 'Previous_Gold', 'Previous_Total', 'Historical_Total_Medals'] [-0.03449066  0.          0.01258094  0.02515192  0.03895576  0.05032478
+  0.05893652  0.41717247  0.56606406]
+Gold:
+['Previous_Silver', 'Year', 'Past_Medal_Efficiency', 'Previous_Participants', 'Previous_Bronze', 'Is_Host', 'Previous_Total', 'Previous_Gold', 'Historical_Total_Medals'] [-0.01748581  0.          0.03529836  0.05115827  0.05356034  0.0664245
+  0.26802729  0.33605885  0.68165452]
+Bronze:
+['Previous_Silver', 'Year', 'Previous_Bronze', 'Past_Medal_Efficiency', 'Previous_Gold', 'Is_Host', 'Previous_Participants', 'Previous_Total', 'Historical_Total_Medals'] [-0.03467038  0.          0.00751919  0.01701118  0.02789134  0.03549003
+  0.05324794  0.35986827  0.49236516]
+
